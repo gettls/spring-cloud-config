@@ -1,0 +1,6 @@
+token:
+  expiration_time: 86400000
+  secret: my_token_devmy_token_devmy_token_devmy_token_devmy_token_devmy_token_devmy_token_dev
+
+gateway:
+  ip: 175.194.246.90
