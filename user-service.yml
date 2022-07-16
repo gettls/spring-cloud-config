@@ -1,6 +1,6 @@
 token:
   expiration_time: 86400000
-  secret: my_token_prodmy_token_prodmy_token_prodmy_token_prodmy_token_prodmy_token_prod
+  secret: '{cipher}AQCV3jV83+i/penh27+OndUYwvUDGAuYkr9QV1cBr9d51PxxZ7PFz84WndO+608RnEUwtvj1SFV6Gs58liA+wu9iWviZ3L626dPxLILOpGpl6cmChHVeJbPCvNnUTsiLzrJBoRSjikVbBbLo2eJEyy3obvVGFKMIWfJis6PDt2ZMVt5AsaRIH+ELCZgQCUb22Z5MyYUD8T1c+Lak0hV50ja9zRL4etHbHk1bLUDc5SOfIYmwaOe3ZgMdrkMWpRY5sycvNlegkLFAiFkzwID7gOvsl541CaCuYFhugYzhY180WqGYW1FXzFMPfPzmoiCMnZm1MH+i11sZZsRfB1kHXgwyHrIEqkxz7hxOgYy+JUHp04KKcFFNL55R1ApgL8m4Bfo='
 spring:
   datasource:
     url: jdbc:h2:mem:testdb
